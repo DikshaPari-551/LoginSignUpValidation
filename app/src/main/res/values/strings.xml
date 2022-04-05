@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StormStreet_Diksha_M1andM2</string>
+    <string name="login_text">Please enter the details below to continue</string>
+    <string name="forgot_password"><u><i>Forgot Password?</i></u></string>
+    <string name="checkbox_signup">I agree to only post truthful and relevant information that is helpful to others , I understand violating this will result in my account removal.</string>
+    <string name="login"><u><i>Login</i></u></string>
+    <string name="sign_up"><u><i>Sign Up</i></u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
